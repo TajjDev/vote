@@ -1,7 +1,7 @@
 import React from 'react'
 import "./howitworks.css"
 // import Button from '../join/Button'
-import Btn from './Btn'
+import Btn from './btn'
 import google from '/src/assets/google.png'
 import apple from '/src/assets/apple.png'
 const HowItWorks = () => {
